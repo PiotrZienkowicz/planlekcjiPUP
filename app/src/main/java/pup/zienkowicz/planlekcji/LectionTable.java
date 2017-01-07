@@ -11,4 +11,5 @@ public class LectionTable implements BaseColumns {
     static final String END_TIME = "end_time";
     static final String NAME = "name";
     static final String ROOM = "room";
+    static final String DAY_OF_WEEK = "day_of_week";
 }

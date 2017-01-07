@@ -1,3 +1,29 @@
 <resources>
     <string name="app_name">PlanLekcji</string>
+    <string name="added">Dodano</string>
+    <string name="add">Dodaj</string>
+    <string name="edited">Zapisano</string>
+    <string name="edit">Zapisz</string>
+    <string name="deleted">Usunięto</string>
+    <string name="delete">Usuń</string>
+    <string name="startCaption">Rozpoczęcie</string>
+    <string name="endCaption">Zakończenie</string>
+    <string name="nameCaption">Nazwa przedmiotu</string>
+    <string name="roomCaption">Nr sali</string>
+
+
+    <string name="nameEmptyError">Nazwa przedmiotu nie może być pusta</string>
+    <string name="roomEmptyError">Nr sali nie może być pusty</string>
+    <string name="deleteQuestion">Czy na pewno usunąć?</string>
+    <string name="no">Nie</string>
+    <string name="yes">TAK</string>
+    <string-array name="days_of_week">
+        <item>Niedziela</item>
+        <item>Poniedziałek</item>
+        <item>Wtorek</item>
+        <item>Środa</item>
+        <item>Czwartek</item>
+        <item>Piątek</item>
+        <item>Sobota</item>
+    </string-array>
 </resources>
